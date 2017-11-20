@@ -8,6 +8,7 @@ Une ligne du jeu de donnée est un ensemble constitué d’un unique type de mé
 1.	L’ensemble constitué d’un même médicament est décrit par les attributs
 
     1.1.	CIP13 : L’identifiant du médicament
+    
     1.2.	L_CIP13 : Le nom complet du médicament
     1.3.	BOITES : Le nombre de boites prescrites
     1.4.	BSE : La base de remboursement pour l’ensemble de boites prescrites
